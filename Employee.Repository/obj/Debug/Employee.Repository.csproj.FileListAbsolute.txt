@@ -1,0 +1,7 @@
+C:\Users\Varshaz\Desktop\Varsha\Assignment\EmployeeAPI\Employee.Repository\bin\Debug\Employee.Repository.dll
+C:\Users\Varshaz\Desktop\Varsha\Assignment\EmployeeAPI\Employee.Repository\bin\Debug\Employee.Repository.pdb
+C:\Users\Varshaz\Desktop\Varsha\Assignment\EmployeeAPI\Employee.Repository\bin\Debug\Employee.Model.dll
+C:\Users\Varshaz\Desktop\Varsha\Assignment\EmployeeAPI\Employee.Repository\bin\Debug\Employee.Model.pdb
+C:\Users\Varshaz\Desktop\Varsha\Assignment\EmployeeAPI\Employee.Repository\obj\Debug\Employee.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Varshaz\Desktop\Varsha\Assignment\EmployeeAPI\Employee.Repository\obj\Debug\Employee.Repository.dll
+C:\Users\Varshaz\Desktop\Varsha\Assignment\EmployeeAPI\Employee.Repository\obj\Debug\Employee.Repository.pdb
